@@ -2,14 +2,13 @@ body
 {
     margin: 0;
     padding:0;
-    background-color: rgb(10, 139, 31);
+    background-color: rgb(96, 126, 15);
 }
 
 .right-frog img ,.left-frog img
 {
     width: 70px;
     height: 100px;
-    /* box-shadow: 2px 5px 5px 3px #000; */
 }
 
 .box
@@ -86,7 +85,7 @@ body
     70% {left: 70%;bottom: 20px;}
     80% {left: 80%;bottom: 0;}
     90% {left: 90%;bottom: 10px;}
-    100% {left:600px;bottom: 0;}
+    100% {left:1250px;bottom: 0;}
     
 }
 
@@ -111,6 +110,6 @@ body
     60% {right: 60%;bottom: 0;}
     70% {right: 70%;bottom: 30px;}
     80% {right: 80%;bottom: 0;}
-    90% {right: 90%;bottom: 10px;}
-    100% {right:600px ;bottom: 0;}
+    90% {right: 90%;bottom: 10;}
+    100% {right:1250px ;bottom: 0;}
 }
